@@ -38,17 +38,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "marcienguy79@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  reddit: yourname
+  facebook: marceline.yul
+  github: DuManNguyen
+# reddit: yourname
   linkedin: marcynguyen
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: marcyn_scribble
 #  spotify: yourname
   telephone: +5489169
 #  steam: deanat78
@@ -75,7 +72,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://www.instagram.com/marcyn_scribble/?hl=en"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
